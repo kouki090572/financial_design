@@ -1588,9 +1588,9 @@ body.cta-active .cta-fab {
 @media (max-width:425px) {
    .cta-fab {
       bottom: 14px;
-      padding: 30px 70px;
+      padding: 30px 45px;
       font-size: .9rem;
-      max-width: calc(100% - 32px);
+      max-width: calc(100% - 90px);
    }
    .cta-footer {
       text-align: center;
