@@ -1191,10 +1191,10 @@ body.cta-active .cta-fab {
 
    .cta-fab {
       bottom: 20px;
-      padding: 26px 16%;
+      padding: 26px 11%;
       letter-spacing: 6px;
       font-size: 1rem;
-     
+     width: 65%;
    }
 }
 
@@ -1588,8 +1588,13 @@ body.cta-active .cta-fab {
 @media (max-width:425px) {
    .cta-fab {
       bottom: 14px;
-      padding: 30px 45px;
+      padding: 30px 70px;
       font-size: .9rem;
-      max-width: 90%;
+      max-width: 80%;
    }
+   .cta-footer {
+      text-align: center;
+      padding: 72px 50px;
+   }
+   
 }
