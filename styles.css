@@ -1590,7 +1590,7 @@ body.cta-active .cta-fab {
       bottom: 14px;
       padding: 30px 70px;
       font-size: .9rem;
-      max-width: 80%;
+      max-width: calc(100% - 32px);
    }
    .cta-footer {
       text-align: center;
